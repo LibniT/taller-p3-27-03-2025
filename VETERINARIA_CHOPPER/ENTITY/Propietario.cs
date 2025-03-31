@@ -1,26 +1,40 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.Remoting;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ENTITY
 {
     public class Propietario : Persona
     {
+        private List<Mascota> _mascotas;
 
+        public Propietario() 
+        {
+            _mascotas = new List<Mascota>();
+        }
+        
+        public Propietario(string nombre, string apellidos, int cedula, string telefono)
+        {
+            Nombre = nombre;
+            Apellidos = apellidos;
+            Cedula = cedula;
+            Telefono = telefono;
+            _mascotas = new List<Mascota>();
+        }
 
-        //List<mascotas> mascotas;
+        public void AgregarMascota(Mascota mascota)
+        {
+            _mascotas.Add(mascota);
+        }
+        
+        public List<Mascota> ObtenerMascotas()
+        {
+            return _mascotas;
+        }
 
-        //public void AgregarMascota(mascotas mascotas){}
-        //public list<mascotas> obtenerMascotas(){}
-
-        public Propietario() { }
         override
         public string MostrarDatos()
         {
-            return "";
+            return $"Propietario: {Nombre} {Apellidos}, Cédula: {Cedula}, Teléfono: {Telefono}, Cantidad de mascotas: {_mascotas.Count}";
         }
     }
 }

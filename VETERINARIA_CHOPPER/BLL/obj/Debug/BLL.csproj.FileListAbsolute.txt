@@ -1,0 +1,11 @@
+C:\Users\LIBNI TORRES\source\repos\LibniT\taller-p3-27-03-2025\VETERINARIA_CHOPPER\BLL\bin\Debug\BLL.dll
+C:\Users\LIBNI TORRES\source\repos\LibniT\taller-p3-27-03-2025\VETERINARIA_CHOPPER\BLL\bin\Debug\BLL.pdb
+C:\Users\LIBNI TORRES\source\repos\LibniT\taller-p3-27-03-2025\VETERINARIA_CHOPPER\BLL\bin\Debug\DAL.dll
+C:\Users\LIBNI TORRES\source\repos\LibniT\taller-p3-27-03-2025\VETERINARIA_CHOPPER\BLL\bin\Debug\ENTITY.dll
+C:\Users\LIBNI TORRES\source\repos\LibniT\taller-p3-27-03-2025\VETERINARIA_CHOPPER\BLL\bin\Debug\DAL.pdb
+C:\Users\LIBNI TORRES\source\repos\LibniT\taller-p3-27-03-2025\VETERINARIA_CHOPPER\BLL\bin\Debug\ENTITY.pdb
+C:\Users\LIBNI TORRES\source\repos\LibniT\taller-p3-27-03-2025\VETERINARIA_CHOPPER\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\LIBNI TORRES\source\repos\LibniT\taller-p3-27-03-2025\VETERINARIA_CHOPPER\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\LIBNI TORRES\source\repos\LibniT\taller-p3-27-03-2025\VETERINARIA_CHOPPER\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\LIBNI TORRES\source\repos\LibniT\taller-p3-27-03-2025\VETERINARIA_CHOPPER\BLL\obj\Debug\BLL.dll
+C:\Users\LIBNI TORRES\source\repos\LibniT\taller-p3-27-03-2025\VETERINARIA_CHOPPER\BLL\obj\Debug\BLL.pdb

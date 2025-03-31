@@ -1,0 +1,6 @@
+C:\Users\LIBNI TORRES\source\repos\LibniT\taller-p3-27-03-2025\VETERINARIA_CHOPPER\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\LIBNI TORRES\source\repos\LibniT\taller-p3-27-03-2025\VETERINARIA_CHOPPER\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\LIBNI TORRES\source\repos\LibniT\taller-p3-27-03-2025\VETERINARIA_CHOPPER\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Users\LIBNI TORRES\source\repos\LibniT\taller-p3-27-03-2025\VETERINARIA_CHOPPER\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\LIBNI TORRES\source\repos\LibniT\taller-p3-27-03-2025\VETERINARIA_CHOPPER\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\LIBNI TORRES\source\repos\LibniT\taller-p3-27-03-2025\VETERINARIA_CHOPPER\ENTITY\obj\Debug\ENTITY.pdb

@@ -1,0 +1,9 @@
+C:\Users\LIBNI TORRES\source\repos\LibniT\taller-p3-27-03-2025\VETERINARIA_CHOPPER\DAL\bin\Debug\DAL.dll
+C:\Users\LIBNI TORRES\source\repos\LibniT\taller-p3-27-03-2025\VETERINARIA_CHOPPER\DAL\bin\Debug\DAL.pdb
+C:\Users\LIBNI TORRES\source\repos\LibniT\taller-p3-27-03-2025\VETERINARIA_CHOPPER\DAL\bin\Debug\ENTITY.dll
+C:\Users\LIBNI TORRES\source\repos\LibniT\taller-p3-27-03-2025\VETERINARIA_CHOPPER\DAL\bin\Debug\ENTITY.pdb
+C:\Users\LIBNI TORRES\source\repos\LibniT\taller-p3-27-03-2025\VETERINARIA_CHOPPER\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\LIBNI TORRES\source\repos\LibniT\taller-p3-27-03-2025\VETERINARIA_CHOPPER\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\LIBNI TORRES\source\repos\LibniT\taller-p3-27-03-2025\VETERINARIA_CHOPPER\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\LIBNI TORRES\source\repos\LibniT\taller-p3-27-03-2025\VETERINARIA_CHOPPER\DAL\obj\Debug\DAL.dll
+C:\Users\LIBNI TORRES\source\repos\LibniT\taller-p3-27-03-2025\VETERINARIA_CHOPPER\DAL\obj\Debug\DAL.pdb
